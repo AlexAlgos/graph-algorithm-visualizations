@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/graph-algorithm-visualizations/static/css/main.02f8aa0a.css",
+    "main.js": "/graph-algorithm-visualizations/static/js/main.94b85add.js",
+    "static/js/787.298a3596.chunk.js": "/graph-algorithm-visualizations/static/js/787.298a3596.chunk.js",
+    "static/media/immediate-path-change.gif": "/graph-algorithm-visualizations/static/media/immediate-path-change.80d381e261ffb71405a9.gif",
+    "static/media/add-a-wall.gif": "/graph-algorithm-visualizations/static/media/add-a-wall.4fccc292ea967a7954dd.gif",
+    "static/media/add-multiple-walls.gif": "/graph-algorithm-visualizations/static/media/add-multiple-walls.704ed1d902e165eb9f74.gif",
+    "index.html": "/graph-algorithm-visualizations/index.html",
+    "main.02f8aa0a.css.map": "/graph-algorithm-visualizations/static/css/main.02f8aa0a.css.map",
+    "main.94b85add.js.map": "/graph-algorithm-visualizations/static/js/main.94b85add.js.map",
+    "787.298a3596.chunk.js.map": "/graph-algorithm-visualizations/static/js/787.298a3596.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f8aa0a.css",
+    "static/js/main.94b85add.js"
+  ]
+}
