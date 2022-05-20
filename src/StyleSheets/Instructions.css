@@ -1,0 +1,83 @@
+#entire-web-screen {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.76);
+}
+
+.instruction-screen {
+  position: absolute;
+  z-index: 3;
+  background-color: white;
+  border: 3px solid #5CDB95;
+  color: #05386B;
+  width: 80%;
+  height: 85%;
+  text-align: center;
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  overflow: auto;
+}
+
+.close-button {
+  background-color: #5CDB95;
+  border: none;
+  color: #05386B;
+  position: absolute;
+  right: 0%;
+  top: 0%;
+  padding: 15px 15px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close-button:hover {
+  color: gold;
+}
+
+#instruction-images {
+  width: 30%;
+  padding: 5px 5px;
+}
+
+@media (max-width: 695px) {
+  .instruction-screen {
+    width: 70%;
+  }
+  .close-button {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px 10px;
+  }
+}
+
+@media (max-height: 400px) {
+  .instruction-screen {
+    width: 70%;
+    height: 90%;
+  }
+  .close-button {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px 10px;
+  }
+}
+
+@media (max-width: 450px) {
+  .instruction-screen {
+    width: 70%;
+  }
+  .close-button {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 8px 8px;
+  }
+}
