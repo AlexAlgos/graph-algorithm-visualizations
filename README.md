@@ -1,6 +1,6 @@
 # Graph Algorithm Visualizations
 
-Welcome to Graph Algorithm Visualizations! I built this application because I want to see how the algorithms I've learned differentiate visually and to help my classmates learning as well. I hope you enjoy spending time learning about the different graph algorithms through the visualizations! You can access the visualizations here:
+Welcome to Graph Algorithm Visualizations! I built this application because I want to see how the algorithms I've learned differentiate visually and to help my classmates learning as well. I hope you enjoy spending time learning about the different graph algorithms through the visualizations! You can access the visualizations here: https://alexalgos.github.io/graph-algorithm-visualizations/
 
 Note: Preferably best to access the website using Google Chrome.
 
